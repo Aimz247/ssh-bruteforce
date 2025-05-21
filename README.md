@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/YoAimz/SSH-bruteforce.git
+   git clone https://github.com/Aimz247/SSH-bruteforce.git
    cd SSH-bruteforce
    ```
 
